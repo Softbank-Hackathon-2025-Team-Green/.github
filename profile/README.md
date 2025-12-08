@@ -1,6 +1,8 @@
 # cutty-x
 
-2025 SoftBank Hackathon in Seoul
+2025 SoftBank Hackathon in Seoul Final round project
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8802c829-e37e-4568-be8a-18d327195267" />
+
 
 <details open>
 <summary>🇰🇷 한국어</summary>
