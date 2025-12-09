@@ -47,7 +47,7 @@ Cutty-X는 FaaS의 핵심 가치인 **개발자 편의성**과 **프로바이더
 
 ---
 
-# **🧰 Main Tech Stack**
+# **🧰 Core Tech Stack**
 
 ### 🧠 Core Runtime
 <div> <img src="https://img.shields.io/badge/Knative-0865AD?style=for-the-badge&logo=knative&logoColor=white"/> <img src="https://img.shields.io/badge/k3s-FFC61C?style=for-the-badge&logo=kubernetes&logoColor=black"/> <img src="https://img.shields.io/badge/gVisor-4285F4?style=for-the-badge&logo=google&logoColor=white"/> </div>
