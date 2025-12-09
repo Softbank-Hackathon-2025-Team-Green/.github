@@ -14,6 +14,8 @@ Lambda나 Cloud Run처럼, 서버리스 함수는 배포 없이 즉시 실행되
 
 <div align="center">
   <h3>🏆 SoftBank Hackathon 2025 Final — Second Prize Winner</h3>
+    <img width="681" height="491" alt="image" src="https://github.com/user-attachments/assets/ce2093ad-b733-42c4-847e-1c7a24956b90" />
+
 </div>
 
 <table align="center" style="table-layout: fixed; width: 100%;"> <tr> <td align="center"><img width="120" src="https://github.com/drghdtjr.png" style="border-radius:50%;" /></td> <td align="center"><img width="120" src="https://github.com/DuckOriDuck.png" style="border-radius:50%;" /></td> <td align="center"><img width="120" src="https://github.com/jiu-jung.png" style="border-radius:50%;" /></td> <td align="center"><img width="120" src="https://github.com/hjs0410hc.png" style="border-radius:50%;" /></td> <td align="center"><img width="120" src="https://github.com/Clear-Wisdom.png" style="border-radius:50%;" /></td> </tr> <tr> <td align="center" style="padding-top:10px;"> <b>김홍석</b><br> <sub><a href="https://github.com/drghdtjr">@drghdtjr</a></sub> </td> <td align="center" style="padding-top:10px;"> <b>서창덕</b><br> <sub><a href="https://github.com/DuckOriDuck">@DuckOriDuck</a></sub> </td> <td align="center" style="padding-top:10px;"> <b>정지우</b><br> <sub><a href="https://github.com/jiu-jung">@jiu-jung</a></sub> </td> <td align="center" style="padding-top:10px;"> <b>현진섭</b><br> <sub><a href="https://github.com/hjs0410hc">@hjs0410hc</a></sub> </td> <td align="center" style="padding-top:10px;"> <b>황서호</b><br> <sub><a href="https://github.com/Clear-Wisdom">@Clear-Wisdom</a></sub> </td> </tr> </table> <br>
