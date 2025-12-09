@@ -63,10 +63,10 @@ Cutty-X는 FaaS의 핵심 가치인 **개발자 편의성**과 **프로바이더
 
 | 저장소                | 설명                                                       |
 | ------------------ | -------------------------------------------------------- |
-| **[infra](./infra)**          | Terraform Cloud로 AWS 인프라를 IaC 방식으로 관리합니다.                |
-| **[web](./web)**            | Next.js 기반 Amplify 앱으로, 함수 생성·배포 UI를 제공합니다.              |
-| **[codebuild-repo](./codebuild-repo)** | Cloud Native Buildpacks와 CodeBuild 빌드 파이프라인 스크립트를 포함합니다. |
-| **[manifest](./manifest)**       | k3s 상에서 실행되는 Knative 및 서비스 매니페스트를 관리합니다.                 |
+| **[infra](https://github.com/Softbank-Hackathon-2025-Team-Green/infra)**          | Terraform Cloud로 AWS 인프라를 IaC 방식으로 관리합니다.                |
+| **[web](https://github.com/Softbank-Hackathon-2025-Team-Green/web)**            | Next.js 기반 Amplify 앱으로, 함수 생성·배포 UI를 제공합니다.              |
+| **[codebuild-repo](https://github.com/Softbank-Hackathon-2025-Team-Green/codebuild-repo)** | Cloud Native Buildpacks와 CodeBuild 빌드 파이프라인 스크립트를 포함합니다. |
+| **[manifest](https://github.com/Softbank-Hackathon-2025-Team-Green/manifest)**       | k3s 상에서 실행되는 Knative 및 서비스 매니페스트를 관리합니다.                 |
 
 
 
